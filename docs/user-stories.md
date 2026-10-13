@@ -1,7 +1,11 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+1. As an HR staff member, I want to manage employee information, so that employee records can be kept organized and up to date.
 
-1. As a ..., I want ..., so that ...
-2. As a ..., I want ..., so that ...
-3. As a ..., I want ..., so that ...
+Acceptance criteria:
+
+-I cannot save an employee record without the required employee details.
+-A saved employee record appears in the employee list within 2 seconds.
+-I can edit existing employee information and save the changes
+
+
