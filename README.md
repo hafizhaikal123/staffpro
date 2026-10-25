@@ -1,9 +1,9 @@
 # staffpro
 
-[One sentence: what problem does this project solve, and for whom?]
+A web-based system for managing employee information.
 
 ## Problem statement
-[3 to 5 sentences: who is affected, what is going wrong, and why it matters.]
+Managing employee information, attendance, leave records and other workplace activities can become difficult when records are kept separately. StaffPro aims to provide one system to help organize and manage these records more easily.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
@@ -11,7 +11,7 @@
 - [User stories](docs/user-stories.md)
 
 ## Status
-Planning (CSC649, Week 2)
+In Development
 
 ## Author
-[Your Name]
+Muhammad Hafiz Haikal 
