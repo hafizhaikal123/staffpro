@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         if ($loginSuccess && password_verify($password, $loginSuccess['PASSWORD'])) {
             // $row = $user->getUserData();
             $_SESSION['acc_id'] = $loginSuccess['ACC_ID'];
-            if (!$loginSuccess['ROLE']) {
+            if (!$loginSuccess['ROLES']) {
                 $_SESSION['user_type'] = 1;
                 $_SESSION['username'] = 'Admin';
             } else {
